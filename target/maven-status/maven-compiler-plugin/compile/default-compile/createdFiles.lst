@@ -1,0 +1,12 @@
+net\trollity\commands\subcommands\Hunger.class
+net\trollity\commands\subcommands\Kill.class
+net\trollity\commands\subcommands\Blind.class
+net\trollity\commands\subcommands\Hurt.class
+net\trollity\commands\subcommands\Mobs.class
+net\trollity\commands\subcommands\Burn.class
+net\trollity\commands\subcommands\Anvil.class
+net\trollity\Trollity.class
+net\trollity\commands\subcommands\Help.class
+net\trollity\commands\subcommands\Lightning.class
+net\trollity\commands\subcommands\Freeze.class
+net\trollity\commands\TrollCommand.class

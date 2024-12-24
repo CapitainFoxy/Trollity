@@ -1,0 +1,17 @@
+name: Trollity
+version: 1.1
+main: net.trollity.Trollity
+api-version: 1.20
+author: CapitainFox
+commands:
+  trollity:
+    description: Trollity plugin commands
+    usage: /trollity <command> [parameters]
+    aliases:
+      - t
+    permission: trollity.use
+    permission-message: "You do not have permission to use this command."
+permissions:
+  trollity.use:
+    description: Allows the player to use all trollity commands
+    default: op
