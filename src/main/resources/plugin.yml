@@ -3,6 +3,9 @@ version: 1.1
 main: net.trollity.Trollity
 api-version: 1.20
 author: CapitainFox
+website: -
+load: MIDDLE
+
 commands:
   trollity:
     description: Trollity plugin commands
