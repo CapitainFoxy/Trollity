@@ -1,3 +1,5 @@
+![kep](public/trollity.png)
+
 <h1 align="center">Trollity</h1>
 
 
